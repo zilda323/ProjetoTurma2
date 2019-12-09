@@ -1,9 +1,9 @@
 <?php
 echo "
 <head>
-  <!-- BASICS -->
+  <!-- inicial -->
   <meta charset='utf-8'>
-  <title>Vlava - One page responsive bootstrap site template</title>
+  <title>Bem Vindos a Gardênia Modas!</title>
   <meta name='description' content=''>
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
   <link rel='stylesheet' type='text/css' href='js/rs-plugin/css/settings.css' media='screen'>
@@ -17,8 +17,8 @@ echo "
   <!-- skin -->
   <link rel='stylesheet' href='skin/default.css'>
   <!-- =======================================================
-    Theme Name: Vlava
-    Theme URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
+    Theme Name: Gardênia
+    Theme URL: https://bootstrapmade.com/Gardênia-free-bootstrap-one-page-template/
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
   ======================================================= -->
@@ -27,7 +27,7 @@ echo "
 
 <body>
   <section id='header' class='appear'></section>
-  <div class='navbar navbar-fixed-top' role='navigation' data-0='line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);' data-300='line-height:60px; height:60px; background-color:rgba(5, 42, 62, 1);'>
+  <div class='navbar navbar-fixed-top' role='navigation' data-0='line-height:100px; height:100px; background-color:rgba(55,55,55,0.3);' data-300='line-height:60px; height:60px; background-color:rgba(55, 42, 62, 10);'>
     <div class='container'>
       <div class='navbar-header'>
         <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
@@ -39,10 +39,10 @@ echo "
       </div>
       <div class='navbar-collapse collapse'>
         <ul class='nav navbar-nav' data-0='margin-top:20px;' data-300='margin-top:5px;'>
-          <li class='active'><a href='index.html'>Home</a></li>
-          <li><a href='#section-about'>About</a></li>
-          <li><a href='#section-works'>Portfolio</a></li>
-          <li><a href='#section-contact'>Contact</a></li>
+          <li class='active'><a href='index.html'>inicial</a></li>
+          <li><a href='#section-about'>sobre</a></li>
+          <li><a href='#section-works'>fotos</a></li>
+          <li><a href='#section-contact'>contato</a></li>
         </ul>
       </div>
       <!--/.navbar-collapse -->
@@ -51,10 +51,10 @@ echo "
 
   <section id='intro'>
     <div class='intro-content'>
-      <h2>Welcome to Vlava!</h2>
-      <h3>Lorem ipsum dolor sit amet, elit persecuti efficiendi</h3>
+      <h2>Bem Vindos a Gardênia Modas</h2>
+      <h3>Tem coisas que só na Gardênia você encontra</h3>
       <div>
-        <a href='#section-services' class='btn-get-started scrollto'>Get Started</a>
+        <a href='#section-services' class='btn-get-started scrollto'>Confira</a>
       </div>
     </div>
   </section>
@@ -157,7 +157,7 @@ echo "
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-												Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+												
 											</h5>
                     <br/>
                     <span class='author'>&mdash; SARAH DOE <a href='#'>www.siteurl.com</a></span>
@@ -171,7 +171,7 @@ echo "
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-												Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+											
 												</h5>
                     <br/>
                     <span class='author'>&mdash; NICOLE DOE <a href='#'>www.siteurl.com</a></span>
@@ -184,7 +184,7 @@ echo "
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-											Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+										
 											</h5>
                     <br/>
                     <span class='author'>&mdash; DASON KRUN <a href='#'>www.siteurl.com</a></span>

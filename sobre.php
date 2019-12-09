@@ -1,14 +1,14 @@
 <?php
 echo "
-  <!-- about -->
+  <!-- sobre -->
   <section id='section-about' class='section appear clearfix'>
     <div class='container'>
 
       <div class='row mar-bot40'>
         <div class='col-md-offset-3 col-md-6'>
           <div class='section-header'>
-            <h2 class='section-heading animated' data-animation='bounceInUp'>Behind Vlava</h2>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
+            <h2 class='section-heading animated' data-animation='bounceInUp'>Gardênia</h2>
+            <p>Conheça nossa história</p>
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@
 <head>
   <!-- BASICS -->
   <meta charset='utf-8'>
-  <title>Vlava - One page responsive bootstrap site template</title>
+  <title>Gardênia</title>
   <meta name='description' content=''>
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
   <link rel='stylesheet' type='text/css' href='js/rs-plugin/css/settings.css' media='screen'>
@@ -28,22 +28,22 @@
 
 <body>
   <section id='header' class='appear'></section>
-  <div class='navbar navbar-fixed-top' role='navigation' data-0='line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);' data-300='line-height:60px; height:60px; background-color:rgba(5, 42, 62, 1);'>
+  <div class='navbar navbar-fixed-top' role='navigation' data-0='line-height:100px; height:100px; background-color:rgba(55,55,55,0.3);' data-300='line-height:60px; height:60px; background-color:rgba(55, 42, 62, 10);'>
     <div class='container'>
       <div class='navbar-header'>
         <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
           <span class='fa fa-bars color-white'></span>
         </button>
         <div class='navbar-logo'>
-          <a href='index.php'><img data-0='width:155px;' data-300=' width:120px;' src='img/logo.png' alt=''></a>
+          <a href='index.php'><img data-0='width:155px;' data-300=' width:200px;' src='https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-1/p160x160/62375864_1665269630283738_7017809904048013312_n.jpg?_nc_cat=109&_nc_ohc=DQvGpudwTAUAQnP2l3t7ti4GRzQyDfn0zRiuCLO-WXFS0M_6akljNgW7g&_nc_ht=scontent.frec10-1.fna&oh=4eda25db3cf80b3004dbdb070d62e6d1&oe=5E7987B6' alt=''></a>
         </div>
       </div>
       <div class='navbar-collapse collapse'>
         <ul class='nav navbar-nav' data-0='margin-top:20px;' data-300='margin-top:5px;'>
-          <li class='active'><a href='index.php'>Home</a></li>
-          <li><a href='#section-about'>About</a></li>
-          <li><a href='#section-works'>Portfolio</a></li>
-          <li><a href='#section-contact'>Contact</a></li>
+          <li class='active'><a href='index.php'>inicial</a></li>
+          <li><a href='#section-about'>sobre</a></li>
+          <li><a href='#section-works'>fotos</a></li>
+          <li><a href='#section-contact'>contato</a></li>
         </ul>
       </div>
       <!--/.navbar-collapse -->
@@ -52,10 +52,10 @@
 
   <section id='intro'>
     <div class='intro-content'>
-      <h2>Welcome to Vlava!</h2>
-      <h3>Lorem ipsum dolor sit amet, elit persecuti efficiendi</h3>
+      <h2>Bem Vindos a Gardênia Modas</h2>
+      <h3>Tem coisas que só na Gardênia você encontra</h3>
       <div>
-        <a href='#section-services' class='btn-get-started scrollto'>Get Started</a>
+        <a href='#section-services' class='btn-get-started scrollto'>Confira</a>
       </div>
     </div>
   </section>
@@ -154,14 +154,13 @@
                 <li>
                   <div class='testimonial clearfix'>
                     <div class='mar-bot20'>
-                      <img alt='' src='img/testimonial/testimonial1.png' class='img-circle'>
+                      <img alt=''src='https://scontent.frec10-1.fna.fbcdn.net/v/t31.0-8/15874677_982734848537223_1149176655942542836_o.jpg?_nc_cat=109&_nc_ohc=KzJz_jQPoFEAQlSncQsRefP4IUtgNPAe6lrhhuQLVac95yWW9R2HWGtiw&_nc_ht=scontent.frec10-1.fna&oh=fcefb5805f7399bbda6c23d57d1bac9d&oe=5E67CF54' class='img-quadrado'>
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-                        Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
-                      </h5>
+                       
                     <br/>
-                    <span class='author'>&mdash; SARAH DOE <a href='#'>www.siteurl.com</a></span>
+                    <span class='author'>&mdash; Gardênia Modas <a href='#'></a></span>
                   </div>
                 </li>
 
@@ -172,7 +171,7 @@
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-                        Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+                       
                         </h5>
                     <br/>
                     <span class='author'>&mdash; NICOLE DOE <a href='#'>www.siteurl.com</a></span>
@@ -185,7 +184,7 @@
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
-                      Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+                      
                       </h5>
                     <br/>
                     <span class='author'>&mdash; DASON KRUN <a href='#'>www.siteurl.com</a></span>
@@ -206,7 +205,7 @@
 
 
 <?php  
-//include 'incial.php';
+include 'incial.php';
 
 ?>
 <?php include 'sobre.php';
@@ -266,8 +265,8 @@
       <div class="row mar-bot40">
         <div class="col-md-offset-3 col-md-6">
           <div class="section-header">
-            <h2 class="section-heading animated" data-animation="bounceInUp">Portfolio</h2>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
+            <h2 class="section-heading animated" data-animation="bounceInUp">Fotos</h2>
+            <p>Confira as Novidades da nossa Loja</p>
           </div>
         </div>
       </div>
@@ -287,7 +286,7 @@
 
               <article class="col-md-4 isotopeItem webdesign">
                 <div class="portfolio-item">
-                  <img src="img/portfolio/img1.jpg" alt="">
+                  <img src="" alt="">
                   <div class="portfolio-desc align-center">
                     <div class="folio-info">
                       <h5><a href="#">Portfolio name</a></h5>
@@ -316,7 +315,7 @@
                   <div class="portfolio-desc align-center">
                     <div class="folio-info">
                       <h5><a href="#">Portfolio name</a></h5>
-                      <a href="img/portfolio/img3.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+                      <a href="img/portfolio/img3.jpga" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
                     </div>
                   </div>
                 </div>
@@ -445,7 +444,7 @@
       <div class="row mar-bot40">
         <div class="col-md-offset-3 col-md-6">
           <div class="section-header">
-            <h2 class="section-heading animated" data-animation="bounceInUp">Contact us</h2>
+            <h2 class="section-heading animated" data-animation="bounceInUp">Contatos</h2>
             <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
           </div>
         </div>
@@ -519,7 +518,7 @@
           All the links in the footer should remain intact.
           You can delete the links only if you purchased the pro version.
           Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Vlava
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Gardênia
         -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
       </div>
