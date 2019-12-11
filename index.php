@@ -35,7 +35,7 @@
           <span class='fa fa-bars color-white'></span>
         </button>
         <div class='navbar-logo'>
-          <a href='index.php'><img data-0='width:155px;' data-300=' width:200px;' src='https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-1/p160x160/62375864_1665269630283738_7017809904048013312_n.jpg?_nc_cat=109&_nc_ohc=DQvGpudwTAUAQnP2l3t7ti4GRzQyDfn0zRiuCLO-WXFS0M_6akljNgW7g&_nc_ht=scontent.frec10-1.fna&oh=4eda25db3cf80b3004dbdb070d62e6d1&oe=5E7987B6' alt=''></a>
+          <a href='index.php'><img data-0='width:155px;' data-300=' width:200px;' src='https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-1/p160x160/62375864_1665269630283738_7017809904048013312_n.jpg?_nc_cat=109&_nc_ohc=DQvGpudwTAUAQnP2l3t7ti4GRzQyDfn0zRiuCLO-WXFS0M_6akljNgW7g&_nc_ht=scontent.frec10-1.fna&oh=4eda25db3cf80b3004dbdb070d62e6d1&oe=5E7987B6'class="img-circle " alt=''></a>
         </div>
       </div>
       <div class='navbar-collapse collapse'>
@@ -154,7 +154,7 @@
                 <li>
                   <div class='testimonial clearfix'>
                     <div class='mar-bot20'>
-                      <img alt=''src='https://scontent.frec10-1.fna.fbcdn.net/v/t31.0-8/15874677_982734848537223_1149176655942542836_o.jpg?_nc_cat=109&_nc_ohc=KzJz_jQPoFEAQlSncQsRefP4IUtgNPAe6lrhhuQLVac95yWW9R2HWGtiw&_nc_ht=scontent.frec10-1.fna&oh=fcefb5805f7399bbda6c23d57d1bac9d&oe=5E67CF54' class='img-quadrado'>
+                      <img alt=''src='https://scontent.frec10-1.fna.fbcdn.net/v/t31.0-8/15874677_982734848537223_1149176655942542836_o.jpg?_nc_cat=109&_nc_ohc=KzJz_jQPoFEAQlSncQsRefP4IUtgNPAe6lrhhuQLVac95yWW9R2HWGtiw&_nc_ht=scontent.frec10-1.fna&oh=fcefb5805f7399bbda6c23d57d1bac9d&oe=5E67CF54' class='img-circle'>
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
@@ -167,27 +167,27 @@
                 <li>
                   <div class='testimonial clearfix'>
                     <div class='mar-bot20'>
-                      <img alt='' src='img/testimonial/testimonial2.png' class='img-circle'>
+                      <img alt='' src='https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/s960x960/75412361_1812069735603726_7766160852469678080_o.jpg?_nc_cat=107&_nc_ohc=ciuSOFWjiWwAQnFMyyjKlGvFfFMnkIgTAz9vuwMBQqUH7P1NbqDQ0KXoQ&_nc_ht=scontent.frec10-1.fna&oh=b7e2f2fa4bec1e046f89f90fbe904020&oe=5E87B2F8' class='img-circle'>
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
                        
                         </h5>
                     <br/>
-                    <span class='author'>&mdash; NICOLE DOE <a href='#'>www.siteurl.com</a></span>
+                    <span class='author'>&mdash; Gardênia <a href='#'></a></span>
                   </div>
                 </li>
                 <li>
                   <div class='testimonial clearfix'>
                     <div class='mar-bot20'>
-                      <img alt='' src='img/testimonial/testimonial3.png' class='img-circle'>
+                      <img alt='' src='https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/p720x720/71042149_1760634150747285_5771434854587564032_o.jpg?_nc_cat=108&_nc_ohc=-oInI9onF2EAQnAiLBYjAeIi-jywDww3PYYfanJwrxfwkSZyz9Fx8wvcA&_nc_ht=scontent.frec10-1.fna&oh=b411acab8233d1b2191a06719b898ab4&oe=5E75856A' class='img-circle'>
                     </div>
                     <i class='fa fa-quote-left fa-5x'></i>
                     <h5>
                       
                       </h5>
                     <br/>
-                    <span class='author'>&mdash; DASON KRUN <a href='#'>www.siteurl.com</a></span>
+                    <span class='author'>&mdash; Gadênia & Erinha <a href='#'></a></span>
                   </div>
                 </li>
               </ul>
